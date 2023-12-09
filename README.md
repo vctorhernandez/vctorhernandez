@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there! I am <a href="https://aristi.dev">Víctor Hernández</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 <p> 
 As a software engineer with a Bachelor's degree in Computer Science, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my academic and professional experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
 
