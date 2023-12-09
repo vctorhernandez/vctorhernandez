@@ -20,12 +20,3 @@
 
 Portfolio: 
 <a target="_blank" href="http://infodigital.es/portfolio">Check</a>
-
-## 🤝🏻 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/victor-hernandez-garrido/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Víctor-Hernández-Garridogithub-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:hernandezgarridovictor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hernandezgarridovictor@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-⭐️ From [Víctor Hernández](https://github.com/vctorhernandez)
-Whatsapp: +34 634 43 98 44
