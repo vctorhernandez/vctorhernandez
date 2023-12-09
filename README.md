@@ -10,7 +10,7 @@
 - 💼 &nbsp; Experienced Work at Idneo as a Fullstack Web Developer.
 - 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
-<h3>🛠 Tech Stack</h3>
+## 🛠 Tech Stack
 
 - 💻 &nbsp; PHP | CodeIgniter | Laravel | Fluter | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Vuejs | Reactjs
@@ -21,7 +21,7 @@
 Portfolio: 
 <a target="_blank" href="http://infodigital.es/portfolio">Check</a>
 
-<h3> 🤝🏻 Connect with Me </h3>
+## 🤝🏻 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/angga-lesmana-19466a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angga%20Lesmana%20github-blue?style=flat-square&logo=linkedin"></a>
