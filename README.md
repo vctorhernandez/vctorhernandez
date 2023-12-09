@@ -20,11 +20,11 @@ Portfolio:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | CodeIgniter | Laravel | fluter | Python
+- 💻 &nbsp; PHP | CodeIgniter | Laravel | Fluter | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Vuejs | Reactjs
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
-- 🖥 &nbsp; UI / UX | Figma | Canva |
+- 🖥 &nbsp; UI / UX | Figma | Canva 
 
 <br/>
 
@@ -35,5 +35,4 @@ Portfolio:
 <a href="mailto:hernandezgarridovictor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hernandezgarridovictor@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 ⭐️ From [Víctor Hernández](https://github.com/vctorhernandez)
-My Whatsapp
-+34 634 43 98 44
+Whatsapp: +34 634 43 98 44
