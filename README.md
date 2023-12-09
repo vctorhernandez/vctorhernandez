@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! I am <a href="https://aristi.dev">Víctor Hernández</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
-<h3> 👨🏻‍💻 About Me </h3>
+## 👨🏻‍💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Universitat Autonoma de Barcelona.
