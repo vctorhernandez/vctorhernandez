@@ -28,8 +28,6 @@ portfolio
 
 <br/>
 
-[![AnggaChelsea GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnggaChelsea&show_icons=true)](https://github.com/AnggaChelsea)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
