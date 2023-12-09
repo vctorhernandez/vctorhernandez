@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p> 
-As a software engineer with a Bachelor's degree in Computer Science and Information Technology, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my academic and professional experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
+As a software engineer with a Bachelor's degree in Computer Science, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my academic and professional experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
 
 One area where I have particularly excelled is in using Angular, a popular front-end web development framework. Since 2020, I have been working extensively with Angular to develop dynamic, responsive user interfaces that deliver a seamless user experience. I am highly skilled in using Angular to build complex applications, and I enjoy keeping up to date with the latest trends and updates in the framework.
 
@@ -9,13 +9,13 @@ In addition to my technical skills, I am a strong communicator and collaborator,
 Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.
 </p>
 Portfolio: 
-<a target="_blank" href="http://infodigital.es">Check</a>
+<a target="_blank" href="http://infodigital.es/portfolio">Check</a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Information System at University of Nusa Putra.
-- 💼 &nbsp; Experienced Work at Marketz.id as a front-end engineer .& Freelancer have been 2 years
+- 🎓 &nbsp; Studying Computer Science at Universitat Autonoma de Barcelona.
+- 💼 &nbsp; Experienced Work at Idneo as a Fullstack Web Developer.
 - 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
 <h3>🛠 Tech Stack</h3>
