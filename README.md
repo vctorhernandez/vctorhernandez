@@ -1,21 +1,23 @@
-<div align="center">
-<h1 align="center">Hi there! I am <a href="http://infodigital.es">Víctor Hernández</a> 👋</h1>
-</div>
-
 ## 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Universitat Autonoma de Barcelona.
-- 💼 &nbsp; Experienced Work at Idneo as a Fullstack Web Developer.
-- 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Currently working as a **Software Developer at CaixaBank**.  
+- 🚀 &nbsp; **Co-founder of NeoLAB Consulting**, building integrations and custom solutions.  
+- ⚡ &nbsp; Experienced in designing and developing **robust backend services** and **scalable frontend applications**.  
+- 🌱 &nbsp; Continuously learning and improving in **Systems Design, Cloud Architectures, and AI applied to business problems**.
+
+---
 
 ## 🛠 Tech Stack
 
-- 💻 &nbsp; PHP | CodeIgniter | Laravel | Fluter | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Vuejs | Reactjs
-- 🛢 &nbsp; MySQL | MongoDB | Postgres
-- 🔧 &nbsp; Git | Gitlab | Bitbucket
-- 🖥 &nbsp; UI / UX | Figma | Canva
+- 💻 &nbsp; **Backend**: Node.js (TypeScript), Python (FastAPI, Flask), PHP (Laravel, CodeIgniter)  
+- 🌐 &nbsp; **Frontend**: Angular, React, Vue.js, JavaScript, HTML, CSS, Bootstrap  
+- 🛢 &nbsp; **Databases**: MongoDB, PostgreSQL, MySQL  
+- 🔧 &nbsp; **Tools & DevOps**: Git, GitHub, GitLab, Bitbucket, Docker  
+- ☁️ &nbsp; **Other**: API Development & Integration, Domain-Driven Design, Hexagonal Architecture, UI/UX (Figma, Canva)
 
-Portfolio: 
-<a target="_blank" href="http://infodigital.es/portfolio">Check</a>
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/victor-hernandez-garrido/))  
+- 📧 hernandezgarridovictor@gmail.com
